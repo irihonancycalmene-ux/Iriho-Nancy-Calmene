@@ -1,0 +1,13 @@
+# TripleTen Projects 
+
+These are the projects I worked on during my Businness Intelligence Analyst Bootcamp. Each project helped me improve my skills in SQL, Tableau, Python, visualization 
+
+|Project Number      |  Title                                                   |Description
+|------------------- |----------------------------------------------------------|-----------------
+| 1 Superstore       | . Data Visualization with Tableau                        |. Identifying the imprortant centers of profit and loss for superstore, advertising and returned items
+| 2 Superstore       |. Build an interactive Taableau dashboard using the supers|.Calculated the Return rate (10%) and identied which product categories coused the highest losses. 
+|                    |tore dataset to analyze product returns and revenue impact|
+|3 Shopify           | .Apps & Reviews Analytics Dasgboard ( Power BI)          |.Imported and modeled multiple tables (apps, reviews , developers, categories)using power Bi to analyse app performance and customer engagement
+|                    |                                                          |
+|                    |                                                          |
+|                    |                                                          |
